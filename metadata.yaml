@@ -1,0 +1,30 @@
+_repo: The-History-of--Punch-_23881
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spielmann, M. H. (Marion Harry)
+    alias: Spielmann, Marion Harry
+    birthdate: 1858
+    deathdate: 1948
+    gutenberg_agent_id: '26109'
+    url: http://www.gutenberg.org/2009/agents/26109
+description: ''
+gutenberg_bookshelf: Punch
+gutenberg_issued: '2007-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Punch (London, England)'
+- !lcc 'PN'
+- !lcsh 'Periodicals -- Publishing -- Great Britain -- History -- 19th century'
+- !lcsh 'Journalism -- Great Britain -- History -- 19th century'
+title: The History of "Punch"
+url: http://www.gutenberg.org/ebooks/23881
